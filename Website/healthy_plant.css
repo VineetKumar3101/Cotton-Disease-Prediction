@@ -1,0 +1,12 @@
+<style>
+    * {
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+    }
+
+    .border img {
+        border-radius: 15px;
+        border: 2px solid black;
+    }
+</style>
